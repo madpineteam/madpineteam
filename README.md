@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madpineteam
-- 📫 How to reach me ...
+- 📫 How to reach me madpine.studio@gmail.com
 
 <!---
 madpineteam/madpineteam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
